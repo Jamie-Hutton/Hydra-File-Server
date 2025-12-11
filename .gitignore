@@ -1,0 +1,6 @@
+__pycache__/
+downloaded_files/
+host_config.json
+known_peers.json
+local_index.json
+shared_files/
